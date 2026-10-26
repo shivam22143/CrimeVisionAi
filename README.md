@@ -1,7 +1,4 @@
 
-# SIH 26189 — AI-Powered Criminal Network Analysis System
-
-This is a deliberately small, open-source-first starter for the SIH 2026 problem statement.
 
 ## MVP architecture
 
